@@ -1,5 +1,4 @@
 Ini baris satu
 Ini baris dua
-ini baris tiga
 
 Tambar baris empat
